@@ -8,3 +8,4 @@ Task 6: This program prints between number 0 to 9.
 Task 7: This program prints reversed alphabets.
 Task 8: This program prints between 0 to 9 and letters between a to f
 Task 9: This program prints numbers between 0 to 9 with commas and spaces
+Task 10: This program prints numbers between 00 to 89.
