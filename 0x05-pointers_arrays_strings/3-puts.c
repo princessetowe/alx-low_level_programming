@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts - prints str 
+ * _puts - prints str
  * @str: pointer to the string
  * Retuen: void
  */
