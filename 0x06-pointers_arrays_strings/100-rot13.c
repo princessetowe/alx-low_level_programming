@@ -6,9 +6,9 @@
  */
 char *rot13(char *s)
 {
-	int a = 0,i;
-	char data[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-	char data2[] = "nopqrstuvwxyzabcdefghijklmNOPQRSTUVWXYZABCDEFGHIJKLM";
+	int a = 0, i;
+	char data[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+	char data2[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
 
 	while (s[a] != '\0')
 	{
@@ -23,4 +23,4 @@ char *rot13(char *s)
 		a++;
 	}
 	return (s);
-}			
+}	
