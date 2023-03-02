@@ -6,7 +6,7 @@
  * @n2: second number
  * @r: stores result
  * @size_r: size of result stored
- * Returm: the point to dest.
+ * Return: the point to dest.
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
