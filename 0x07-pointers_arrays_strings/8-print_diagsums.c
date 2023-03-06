@@ -4,6 +4,7 @@
  * print_diagsums - Entry point
  * @a: input
  * @size: input
+ * Return: Always 0 (Sucess)
  */
 void print_diagsums(int *a, int size)
 {
