@@ -1,4 +1,5 @@
-This contains :
+This repository contains Directories and Files on C programming for the ALX SWE program
+The directories include:
 0x00-hello_world
 0x01-variables_if_else_while
 0x02-functions_nested_loops
@@ -16,3 +17,4 @@ This contains :
 0x0F-function_pointers
 0x10-variadic_functions
 0x12-singly_linked_lists
+0x13-more_singly_linked_lists
