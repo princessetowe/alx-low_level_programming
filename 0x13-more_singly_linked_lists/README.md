@@ -1,4 +1,6 @@
-Tasks
+This contains a header file and tasks
+
+lists.h: Header file containing prototypes for this project
 
 0. Prints all the elements of a listint_t list
 
