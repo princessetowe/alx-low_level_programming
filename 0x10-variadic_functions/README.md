@@ -1,3 +1,6 @@
+This directory contains a header file and tasks for project 0x10-variadic_functions
+
+variadic_functions.h: Header file containing the prototypes for each task
 Tasks
 
 0. Beauty is variable, ugliness is constant
@@ -10,8 +13,7 @@ A function that prints numbers, followed by a new line, if separator is NULL, it
 
 2. One woman's constant is another woman's variable
 
-A function that prints strings, followed by a new line. If separator is NULL, it doesn't print it
-If one of the string is NULL, it prints (nil)
+A function that prints strings, followed by a new line. If separator is NULL, it doesn't print it. If one of the string is NULL, it prints (nil)
 
 3. To be is a to be the value of a variable
 
