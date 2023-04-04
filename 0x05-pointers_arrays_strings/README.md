@@ -1,4 +1,4 @@
-This directory conatins a header file and tasks for project 0x05-pointers_arrays_strings
+This directory contains a header file and tasks for project 0x05-pointers_arrays_strings
 
 main.h: Header file containing the prototypes for each task
 Task 0: A function that takes a pointer to an int as parameter and updates the value it points to to 98.
