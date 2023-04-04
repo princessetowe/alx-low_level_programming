@@ -1,4 +1,4 @@
-This contains a header file and tasks for project 0x02-functions_nested_loops
+This directory contains a header file and tasks for project 0x02-functions_nested_loops
 
 main.h: This is the header file containing the prototypes for each task
 Task 0: This program that prints _putchar, followed by a new line.
