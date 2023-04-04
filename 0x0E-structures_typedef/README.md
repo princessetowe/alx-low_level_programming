@@ -1,3 +1,6 @@
+This directory contains a header file and tasks for project 0x0E-structures_typedef
+
+dog.h: Header file containing the prototypes for each task
 Tasks
 0 - Defines a new type struct dog with the following elements: 
 name, type = char * 
