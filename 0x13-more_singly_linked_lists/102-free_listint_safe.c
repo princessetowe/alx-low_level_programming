@@ -2,7 +2,7 @@
 /**
  * free_listp2 - frees a linked list
  * @head: head of a list
- * Return: mnnone
+ * Return: none
  */
 void free_listp2(listp_t **head)
 {
@@ -29,7 +29,7 @@ void free_listp2(listp_t **head)
  */
 size_t free_listint_safe(listint_t **h)
 {
-	size_t nnodes = 0;
+	size_t nod = 0;
 	listp_t *hptr, *new, *add;
 	listint_t *curr;
 
@@ -54,17 +54,17 @@ size_t free_listint_safe(listint_t **h)
 			{
 				*h = NULL;
 				free_listp2(&hptr);
-				return (nnodes);
+				return (nod);
 			}
 		}
 
 		curr = *h;
 		*h = (*h)->next;
 		free(curr);
-		nnodes++;
+		nod++;
 	}
 
 	*h = NULL;
 	free_listp2(&hptr);
-	return (nnodes);
+	return (nod);
 }
