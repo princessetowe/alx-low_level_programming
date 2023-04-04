@@ -1,3 +1,6 @@
+This directory conatins a header file and tasks for project 0x06-pointers_arrays_strings
+
+main.h: Header file containing the prototypes for each task
 Task 0: A function that concatenates two strings.
 Task 1: A function that concatenates two strings. 
 Task 2: A function that copies a string.
