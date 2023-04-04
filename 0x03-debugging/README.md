@@ -1,5 +1,4 @@
-Debugging
-This contains a header file and tasks for project 0x03-debugging
+This directory contains a header file and tasks for project 0x03-debugging
 
 main.h: Header file containing the prototypes for each task
 Task 0: tests function that prints if integer is positive or negative
