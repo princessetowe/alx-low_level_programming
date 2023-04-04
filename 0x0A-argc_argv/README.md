@@ -1,3 +1,6 @@
+This directory contains a header file and tasks for project 0x0A-argc_argv
+
+main.h: Header file containing the prototypes for each task
 Task 0: This program that prints its nam
 Task 1: A program that prints the number of arguments passed into it.
 Task 2: This a program that prints all arguments it receives, one argument per line
