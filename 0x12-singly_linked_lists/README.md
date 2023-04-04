@@ -1,4 +1,4 @@
-This directory conatins a header file and tasks for project 0x12-singly_linked_lists
+This directory contains a header file and tasks for project 0x12-singly_linked_lists
 
 lists.h: Header file containing the prototypes for each task
 Tasks
