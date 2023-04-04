@@ -1,3 +1,6 @@
+This directory contains a header file and tasks for project 0x0B-malloc_free
+
+main.h: Header file containing the prototypes for each task
 Task 0: A function that creates an array of chars, and initializes it with a specific char
 Task 1: A function that returns a pointer to a newly allocated space, which contains a copy of the string given as a parameter
 Task 2: A function that concantenates two strings
