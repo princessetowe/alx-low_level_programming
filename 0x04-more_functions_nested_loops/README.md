@@ -1,3 +1,6 @@
+This directory conatins a header file and tasks for 0x04-more_functions_nested_loops
+
+main.h: Header file containing the prototypes for each task
 Task 0: A function that checks for uppercase character.
 Task 1: A function that checks for a digit (0 through 9).
 Task 2: A function that multiplies two integers.
