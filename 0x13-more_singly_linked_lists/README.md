@@ -2,6 +2,7 @@ This contains a header file and tasks
 
 lists.h: Header file containing prototypes for this project
 
+102-free_listint_safe.c
 0. Prints all the elements of a listint_t list
 
 1. Returns the number of elements in a linked listint_t list
